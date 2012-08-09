@@ -1,1 +1,0 @@
-﻿var curComp = app.project.activeItem;var list = new Array();for(var i = 0; i < curComp.selectedLayers.length;i++){    var l = curComp.selectedLayers[i];    list.push( l.name + " "+ l.position.value.toString());        }alert("\n" + list.join("\n"));
