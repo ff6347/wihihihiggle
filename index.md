@@ -151,6 +151,10 @@ You can download the script @ [here](https://github.com/downloads/fabiantheblind
 Thanx to Dan Ebberts for his great [motionscript.com](http://motionscript.com) and all the others who share things open source on the web.  
 
 ---------------------  
+##Donate
+If you want to donate something just go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts there.  
+
+---------------------  
 
 ##License
 Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
@@ -158,9 +162,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A  PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF  CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
 
----------------------  
-##Donate
-If you want to donate something just go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts there.  
 
 
 
