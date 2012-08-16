@@ -1,5 +1,6 @@
 #This is a GUI for the famous wiggle() expression
 ##Works in AECS4+
+Have a look at [the website](http://fabiantheblind.github.com/wihihihiggle/) for further info
 
 ##License
 Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
