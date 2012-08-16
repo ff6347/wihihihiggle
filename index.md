@@ -2,18 +2,20 @@
 layout: default
 title: wihihihiggle script for After Effects CS4+
 ---
-#wihihihiggle script for AECS4+  
-##Aren't you tired of writing <span id="extra">wiggle</span>
-##again and again and again?
+![splash](images/splash-2-plus-text.png)  
+#<span id="extra">wihihihiggle script for AECS4+</span> 
+#Version 0.1  
+---------------------  
+##Aren't you tired of writing <span id="extra">wiggle</span> again and again and again?
 .  
-##Do you use <span id="extra">wiggle()</span>
-##always with a basic setting
-##like <span id="extra">wiggle(0.5,23)</span>?  
+##Do you always use wiggle() with a basic setting like <span id="extra">wiggle(0.5,23)</span>?  
 .  
-##Did you ever wonder what the extended version
-##<span id="extra">wiggle(freq, amp, octaves = 1, amp_mult = .5, t = time)</span>
-##does?  
+##Did you ever wonder what the extended version <span id="extra">wiggle(freq, amp, octaves = 1, amp_mult = .5, t = time)</span> does?  
 .  
+<br>
+  <iframe src="http://player.vimeo.com/video/47651491" width="100%" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<br>
+<br>
 This Script ist mostly a GUI for that famous <span id="extra">wiggle()</span> expression with some extra expression goodness like <span id="extra">posterizeTime(framesPerSecond)</span>, <span id ="extra">seedRandom(seed)</span> and the great [looping wiggle() expression](http://www.motionscript.com/design-guide/looping-wiggle.html) by Dan Ebberts. In simple mode it adds the wiggle() expression with the choosen frequence and amplitude to the selected properties. It also saves your standard values for faster access. in the 'not simple' mode it creates a controller Null Object with some sliders and applies the following expression to your selected properties. The advanced mode is more or less for learning the possibilities wiggle offers.    
 
 ##The Extended Expression
@@ -78,7 +80,7 @@ Define the amplitude per second. The default is '25'. Accepts also expressions
 
 -----------------------  
 
-![simple ui](images/wihihihiggle_full_ui.png)  
+![not simple ui](images/wihihihiggle_full_ui.png)  
 
 ##Usage Not Simple  
 The following are the options of the extended mode.  
@@ -141,9 +143,20 @@ This will reset all fields to their default values. Also the saved values will b
 Press me and i will try to help you. You also should watch the tutorials on this script on: http://fabiantheblind.info  
 
 ---------------------  
+##Download  
+You can download the script @ [aescripts.com/wihihihiggle](http://aescripts.com/wihihihiggle)  
+
+---------------------  
+##Praises  
+Thanx to Dan Ebberts for his great [motionscript.com](http://motionscript.com) and all the others who share things open source on the web.  
+
+---------------------  
+
 ##License
 Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to  permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A  PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF  CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
+
+
 
