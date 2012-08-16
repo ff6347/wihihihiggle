@@ -144,7 +144,7 @@ Press me and i will try to help you. You also should watch the tutorials on this
 
 ---------------------  
 ##Download  
-You can download the script @ [here](https://github.com/fabiantheblind/wihihihiggle/zipball/master)  
+You can download the script @ [here](https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip)  
 
 ---------------------  
 ##Praises  
