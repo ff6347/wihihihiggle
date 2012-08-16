@@ -10,8 +10,7 @@ title: wihihihiggle script for After Effects CS4+
 ##always with a basic setting
 ##like <span id="extra">wiggle(0.5,23)</span>?  
 .  
-##Did you ever wonder
-##what the extended version
+##Did you ever wonder what the extended version
 ##<span id="extra">wiggle(freq, amp, octaves = 1, amp_mult = .5, t = time)</span>
 ##does?  
 .  
@@ -87,8 +86,17 @@ The following are the options of the extended mode.
 ###octaves
 Define the octaves for you expression. The default is '1'. The more octaves you have the more skips your property will have. Accepts also expressions  
 
+[**From Adobe Helpfiles:**](http://help.adobe.com/en_US/aftereffects
+/cs/using/WS3878526689cb91655866c1103906
+c6dea-7a0ca.html#WS3878526689cb91655866c
+1103906c6dea-79f8a) octaves is the number of octaves of noise to add together. This value controls how much detail is in the wiggle. Make this value higher than the default of 1 to include higher frequencies or lower to include amplitude harmonics in the wiggle.  
+
 ###amp_mult
-Define the amplitude multiplier for the octaves. The default is '0.5'. The higher this value is the more it will amplify your skips. Keep this realy low. Accepts also expressions  
+Define the amplitude multiplier for the octaves. The default is '0.5'. The higher this value is the more it will amplify your skips. Keep this realy low. Accepts also expressions   
+[**From Adobe Helpfiles:**](http://help.adobe.com/en_US/aftereffects
+/cs/using/WS3878526689cb91655866c1103906
+c6dea-7a0ca.html#WS3878526689cb91655866c
+1103906c6dea-79f8a) amp_mult is the amount that amp is multiplied by for each octave. This value controls how fast the harmonics drop off. The default is 0.5; make it closer to 1 to have the harmonics added at the same amplitude as the base frequency, or closer to 0 to add in less detail  
 
 ###addTime
 If checked the script will add a 'time' expression on that slider. If not it just uses a value. You can use a value and than keyframe the slider. This enables you to run time backward or stretch it for the wiggle  
@@ -131,4 +139,11 @@ This will reset all fields to their default values. Also the saved values will b
 
 ###button_help
 Press me and i will try to help you. You also should watch the tutorials on this script on: http://fabiantheblind.info  
+
+---------------------  
+##License
+Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to  permit persons to whom the Software is furnished to do so, subject to the following conditions:  
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A  PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF  CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
 

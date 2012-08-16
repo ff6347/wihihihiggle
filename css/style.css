@@ -16,14 +16,14 @@ a {
     text-decoration: none;
 }
 a:link {
-	color: #b95e02;
+	color: #b92400;
 }
 a:visited {
-	color: #8a8a8a;
+	color: #813116;
 	text-decoration: line-through;
 }
 a:active {
-	color: #cb3800;
+	color: #cb9100;
 }
 a:hover {
 	color: #000000;
@@ -40,6 +40,21 @@ a:hover {
 	padding-bottom: 1em;
 	padding-right: 2em;
 	text-align: right;
+}
+
+#idl{
+ text-align:center;
+  padding-top: 3em;
+
+}
+
+#footlinks{
+  text-align: center;
+
+
+    font-size: 0.8em;
+  margin-bottom: 2em;
+  border-top: 1px solid #ffffff;
 }
 
 /*pre{
