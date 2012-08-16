@@ -16,7 +16,7 @@ title: wihihihiggle script for After Effects CS4+
   <iframe src="http://player.vimeo.com/video/47651491" width="100%" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <br>
 <br>
-This Script ist mostly a GUI for that famous <span id="extra">wiggle()</span> expression with some extra expression goodness like <span id="extra">posterizeTime(framesPerSecond)</span>, <span id ="extra">seedRandom(seed)</span> and the great [looping wiggle() expression](http://www.motionscript.com/design-guide/looping-wiggle.html) by Dan Ebberts. In simple mode it adds the wiggle() expression with the choosen frequence and amplitude to the selected properties. It also saves your standard values for faster access. in the 'not simple' mode it creates a controller Null Object with some sliders and applies the following expression to your selected properties. The advanced mode is more or less for learning the possibilities wiggle offers.    
+This Script ist mostly a GUI for that famous <span id="extra">wiggle()</span> expression with some extra expression goodness like <span id="extra">posterizeTime(framesPerSecond)</span>, <span id ="extra">seedRandom(seed)</span> and the great [looping wiggle() expression](http://www.motionscript.com/design-guide/looping-wiggle.html) by Dan Ebberts. In simple mode it adds the wiggle() expression with the choosen frequence and amplitude to the selected properties. It also saves your standard values for faster access. in the 'not simple' mode it creates a controller Null Object with some sliders and applies the following expression to your selected properties. The advanced mode is more or less for learning the possibilities wiggle offers.  
 
 ##The Extended Expression
 
