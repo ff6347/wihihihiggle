@@ -11,6 +11,7 @@ h1 a { text-decoration: none }
 h2 { font-size: 1.4em; color: #000000; }
 h3 { font-size: 1.2em; color: #000000; }
 h4{font-size: 1.1em;font-weight: bold; }
+h6{font-size: 0.7em;}
 a { color: #000000; }
 a {
     text-decoration: none;
@@ -78,6 +79,12 @@ code{
   
 }
 */
+
+/* Paypal button */
+#pp{
+  width: 72px;
+  height: 21px;
+}
 
 .gist{
 background-color: white !important;
