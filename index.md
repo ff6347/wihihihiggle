@@ -122,7 +122,7 @@ Define the a fps value for the time posterize. It is like stopping the time and 
 If checked the loop wiggle expression by Dan Ebberts gets enabled. It allows to create a looping wiggle  
 
 ###loopTime
-Define the looptime in seconds. This is based on Dan Ebberts great loop wiggle expression  http://www.motionscript.com/design-guide/looping-wiggle.html . The default is '5'. Accepts also expressions  
+Define the looptime in seconds. This is based on Dan Ebberts great [loop wiggle expression](http://www.motionscript.com/design-guide/looping-wiggle.html). The default is '5'. Accepts also expressions  
 
 ###button_select_ctrl
 Hit this button and the selected layer will be used as the controller. BEWARE all the Sliders need to be there. If they are not your expression will throw an error  
