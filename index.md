@@ -144,8 +144,7 @@ Press me and i will try to help you. You also should watch the tutorials on this
 
 ---------------------  
 ##Download  
-You can download the script @ [here](https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip)  
-  
+You can download the script @ <a href="https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip" onClick="_gaq.push(['_trackEvent', ‘Download', 'script', 'wihihihiggleScript', 1, false])" target="blanc"> here</a>  
 ---------------------  
 ##Comments  
 
