@@ -70,13 +70,13 @@ These are the options of the simple mode.
 If you uncheck this all the options for e.g. 'octaves', 'randomSeed' get enabled.  
 
 ###usetemporal
-If checked this will use a temporalWiggle(). This type of wiggle needs keyframes. So dont wonder if nothing happens. The property will wiggle over time  
+If checked this will use a temporalWiggle(). This type of wiggle needs keyframes. So dont wonder if nothing happens. The property will wiggle over time.  
 
 ###freq
-Define the frequence per second. The default is '1'. Accepts also expressions  
+Define the frequence per second. The default is '1'. Accepts also expressions.  
 
 ###amp
-Define the amplitude per second. The default is '25'. Accepts also expressions  
+Define the amplitude per second. The default is '25'. Accepts also expressions.  
 
 -----------------------  
 
@@ -86,7 +86,7 @@ Define the amplitude per second. The default is '25'. Accepts also expressions
 The following are the options of the extended mode.  
 
 ###octaves
-Define the octaves for you expression. The default is '1'. The more octaves you have the more skips your property will have. Accepts also expressions  
+Define the octaves for you expression. The default is '1'. The more octaves you have the more skips your property will have. Accepts also expressions.  
 
 [**From Adobe Helpfiles:**](http://help.adobe.com/en_US/aftereffects
 /cs/using/WS3878526689cb91655866c1103906
@@ -98,10 +98,10 @@ Define the amplitude multiplier for the octaves. The default is '0.5'. The highe
 [**From Adobe Helpfiles:**](http://help.adobe.com/en_US/aftereffects
 /cs/using/WS3878526689cb91655866c1103906
 c6dea-7a0ca.html#WS3878526689cb91655866c
-1103906c6dea-79f8a) amp_mult is the amount that amp is multiplied by for each octave. This value controls how fast the harmonics drop off. The default is 0.5; make it closer to 1 to have the harmonics added at the same amplitude as the base frequency, or closer to 0 to add in less detail  
+1103906c6dea-79f8a) amp_mult is the amount that amp is multiplied by for each octave. This value controls how fast the harmonics drop off. The default is 0.5; make it closer to 1 to have the harmonics added at the same amplitude as the base frequency, or closer to 0 to add in less detail.  
 
 ###addTime
-If checked the script will add a 'time' expression on that slider. If not it just uses a value. You can use a value and than keyframe the slider. This enables you to run time backward or stretch it for the wiggle  
+If checked the script will add a 'time' expression on that slider. If not it just uses a value. You can use a value and than keyframe the slider. This enables you to run time backward or stretch it for the wiggle.  
 
 ###t
 Define the time value. This is just a fallback. If the time does not proceed there will be no wiggle. Use the slider to keyframe the time by yourself or add an expression like 'time' .The default is '1'.  
@@ -110,36 +110,36 @@ Define the time value. This is just a fallback. If the time does not proceed the
 If checked this will add the 'seedRandom(value)' expression. This is usefull if you need to have the same behaviour on several wiggle expression but you dont want to parent the layers.  
 
 ###seed
-Define the random seed for your expression. All the expression with the same random seed will have a similar behaviour. The default is '100'. Accepts also expressions  
+Define the random seed for your expression. All the expression with the same random seed will have a similar behaviour. The default is '100'. Accepts also expressions.  
 
 ###addpstrz
 If checked the 'posterizeTime()' expression will be added. This allows to stop the time off the expression for the given amount of frames. If added the 'add time expression' will be disabled.  
 
 ###framesPerSecond
-Define the a fps value for the time posterize. It is like stopping the time and wating for the given number of frames. The default is '1'. Accepts also expressions  
+Define the a fps value for the time posterize. It is like stopping the time and wating for the given number of frames. The default is '1'. Accepts also expressions.  
 
 ###addLoop
-If checked the loop wiggle expression by Dan Ebberts gets enabled. It allows to create a looping wiggle  
+If checked the loop wiggle expression by Dan Ebberts gets enabled. It allows to create a looping wiggle.  
 
 ###loopTime
-Define the looptime in seconds. This is based on Dan Ebberts great [loop wiggle expression](http://www.motionscript.com/design-guide/looping-wiggle.html). The default is '5'. Accepts also expressions  
+Define the looptime in seconds. This is based on Dan Ebberts great [loop wiggle expression](http://www.motionscript.com/design-guide/looping-wiggle.html). The default is '5'. Accepts also expressions.  
 
 ###button_select_ctrl
-Hit this button and the selected layer will be used as the controller. BEWARE all the Sliders need to be there. If they are not your expression will throw an error  
+Hit this button and the selected layer will be used as the controller. BEWARE all the Sliders need to be there. If they are not your expression will throw an error.  
 
-###ctrlname
-Enter a name for your controller. This will be used in the expression and as the name of the 'Null Layer'  
+###controller Name Textfield
+Enter a name for your controller. This will be used in the expression and as the name of the 'Null Layer'.  
 
 ###ctrlExists
 This box checks itself by hitting the Select Control button. If it is checked the Script will asume you have a controller with the name set in the textfield to the left. If you uncheck it the script will create a new controler by that given name  
 
-###runButton
+###rRun Button
 Press me and i will apply your expression to the selected properties  
 
-###reset_button
+###Reset Button
 This will reset all fields to their default values. Also the saved values will be reseted.  
 
-###button_help
+###Help Button
 Press me and i will try to help you. You also should watch the tutorials on this script on: http://fabiantheblind.info  
 
 ---------------------  
@@ -180,7 +180,6 @@ Thanx to Dan Ebberts for his great [motionscript.com](http://motionscript.com) a
 ##Donate
 If you want to donate something use the paypal button below or go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts* there.  
 
-{% raw %}
 <div >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -189,8 +188,7 @@ If you want to donate something use the paypal button below or go over to [aescr
 <img alt="" border="0" id="pp" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" >
 </form>
 </div>
-<br>
-{% endraw %}  
+<br>  
 
 ######*actually it's only [one](http://aescripts.com/aemap/) ;). But I'm working on it.   
 
