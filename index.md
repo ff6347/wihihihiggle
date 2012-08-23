@@ -178,17 +178,27 @@ Thanx to Dan Ebberts for his great [motionscript.com](http://motionscript.com) a
 
 ---------------------  
 ##Donate
-If you want to donate something use the paypal button below or go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts* there.  
-
-<div >
+If you want to donate something use the paypal or flattr button below or go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts* there.  
+  
+<div>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="J853XX5VTBZ6Y">
 <input type="image" id="pp" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" id="pp" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" >
 </form>
-</div>
+
 <br>  
+<br>  
+<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://fabiantheblind.github.com/wihihihiggle/">
+</a>
+<noscript>
+    <a href="http://flattr.com/thing/855151/wihihihiggle-script-for-After-Effects-CS4" target="_blank">
+        <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" />
+    </a>
+</noscript>  
+<br>  
+</div>  
 
 ######*actually it's only [one](http://aescripts.com/aemap/) ;). But I'm working on it.   
 
