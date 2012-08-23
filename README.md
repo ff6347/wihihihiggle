@@ -3,7 +3,7 @@
 Have a look at [the website](http://fabiantheblind.github.com/wihihihiggle/) for further info
 
 ##Fork or Download?  
-If you are not familiar with git and github I recommend you to download the script via [this link](https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip). It's a neat packed zip file with the website as the help. Also it allows me to keep track on how often the script got loaded. If you know github use the fork. No not the force the fork ;). In the master branch is always the last stable version but without the help. Thats get generated with gh-pages and jekyll.  
+If you are not familiar with git and github I recommend you to download the script via [this link](https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip). It's a neat packed zip file with the website as the help. Also it allows me to keep track on how often the script got loaded. If you know github use the fork. No not the force the fork ;). In the master branch is always the last stable version but without the help and some development junk. The Help gets generated with gh-pages and jekyll.  
 
 ##License
 Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
