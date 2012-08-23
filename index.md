@@ -133,7 +133,7 @@ Enter a name for your controller. This will be used in the expression and as the
 ###ctrlExists
 This box checks itself by hitting the Select Control button. If it is checked the Script will asume you have a controller with the name set in the textfield to the left. If you uncheck it the script will create a new controler by that given name  
 
-###rRun Button
+###Run Button
 Press me and i will apply your expression to the selected properties  
 
 ###Reset Button
@@ -144,7 +144,7 @@ Press me and i will try to help you. You also should watch the tutorials on this
 
 ---------------------  
 ##Download  
-You can download the script @ <a href="https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip" onClick="_gaq.push(['_trackEvent', ‘Download', 'script', 'wihihihiggleScript', 1, false])" target="blanc"> here</a>    
+You can download the script <a href="https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v01.zip" onClick="_gaq.push(['_trackEvent', ‘Download', 'script', 'wihihihiggleScript', 1, false])" target="blanc"> here.</a>    
   
 ---------------------  
 ##Contribute  
