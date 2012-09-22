@@ -196,6 +196,8 @@ If you want to donate something use the paypal or flattr button below or go over
 
 ---------------------  
 ##Version History
+###Version 0.2.2
+- bug fix. Expressions update properly if controlelr names get changed
 ###Version 0.2.1
 - minor bug fix. Script added number after number onto the controller
 ###Version 0.2
