@@ -4,7 +4,7 @@ title: wihihihiggle script for After Effects CS4+
 ---
 ![splash](images/splash-2-plus-text.png)  
 #<span id="extra">wihihihiggle script for AECS4+</span> 
-#Version 0.2.1  
+#Version 0.2.2  
 
 ---------------------  
 ##Aren't you tired of writing <span id="extra">wiggle</span> again and again and again?
@@ -23,7 +23,7 @@ This Script ist mostly a GUI for that famous <span id="extra">wiggle()</span> ex
 ##Download  
 You can download latest version of the script by pressing that button below.  
 <br>
-<input type="button" onclick="window.open('https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v02_1.zip','_self')" class="btn btn-large" id="introbtndl"  value="Download" />
+<input type="button" onclick="window.open('https://github.com/downloads/fabiantheblind/wihihihiggle/wihihihiggle_script_v02_2.zip','_self')" class="btn btn-large" id="introbtndl"  value="Download" />
 <br>  
 
 If you want to take a peek into some older version go over <a href="https://github.com/fabiantheblind/wihihihiggle/downloads" target="blanc">here.</a>  
