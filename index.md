@@ -188,11 +188,11 @@ Thanx to Dan Ebberts for his great [motionscript.com](http://motionscript.com) a
 
 ---------------------  
 ##Donate
-If you want to donate something use the paypal or flattr button below or go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts* there.  
+If you want to donate something use the paypal or flattr button below or go over to [aescripts.com](http://aescripts.com/authors/e-l/fabiantheblind/) and purchase one of my other scripts there.  
 
 {% include buttons.html %}  
 <br>  
-######*actually it's only [one](http://aescripts.com/aemap/) ;). But I'm working on it.   
+
 
 ---------------------  
 ##Version History
